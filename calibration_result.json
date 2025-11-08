@@ -1,0 +1,101 @@
+{
+  "ok": true,
+  "image_size": {
+    "width": 640,
+    "height": 480
+  },
+  "pattern_size": {
+    "cols": 9,
+    "rows": 6
+  },
+  "rms": 0.7091877144265604,
+  "mean_reprojection_error": 0.08926770269962617,
+  "camera_matrix": [
+    [
+      1481.8608705294655,
+      0.0,
+      339.86345175894905
+    ],
+    [
+      0.0,
+      1452.3769942394142,
+      346.0602785405517
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "dist_coeffs": [
+    -0.03960192291423604,
+    1.5825061105636133,
+    -0.0112776396153801,
+    -0.09030933200179403,
+    -0.8847550270908277
+  ],
+  "num_images_total": 12,
+  "num_images_ok": 7,
+  "per_image_report": [
+    {
+      "image": "calib_images\\img_20251103_133622.jpg",
+      "ok": true,
+      "msg": "Chessboard detected"
+    },
+    {
+      "image": "calib_images\\img_20251103_133637.jpg",
+      "ok": true,
+      "msg": "Chessboard detected"
+    },
+    {
+      "image": "calib_images\\img_20251103_134052.jpg",
+      "ok": false,
+      "msg": "Chessboard not found"
+    },
+    {
+      "image": "calib_images\\img_20251103_135026.jpg",
+      "ok": true,
+      "msg": "Chessboard detected"
+    },
+    {
+      "image": "calib_images\\img_20251103_135033.jpg",
+      "ok": true,
+      "msg": "Chessboard detected"
+    },
+    {
+      "image": "calib_images\\img_20251103_140530.jpg",
+      "ok": true,
+      "msg": "Chessboard detected"
+    },
+    {
+      "image": "calib_images\\img_20251103_140535.jpg",
+      "ok": true,
+      "msg": "Chessboard detected"
+    },
+    {
+      "image": "calib_images\\img_20251103_140540.jpg",
+      "ok": false,
+      "msg": "Chessboard not found"
+    },
+    {
+      "image": "calib_images\\img_20251103_141623.jpg",
+      "ok": false,
+      "msg": "Chessboard not found"
+    },
+    {
+      "image": "calib_images\\img_20251103_142034.jpg",
+      "ok": false,
+      "msg": "Chessboard not found"
+    },
+    {
+      "image": "calib_images\\img_20251103_142041.jpg",
+      "ok": false,
+      "msg": "Chessboard not found"
+    },
+    {
+      "image": "calib_images\\img_20251103_160702.jpg",
+      "ok": true,
+      "msg": "Chessboard detected"
+    }
+  ]
+}
