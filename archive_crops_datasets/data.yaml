@@ -1,0 +1,5 @@
+train: D:/5710HAND/archive_crops_datasets/train/images
+val:   D:/5710HAND/archive_crops_datasets/val/images
+
+nc: 1
+names: ['hand']
